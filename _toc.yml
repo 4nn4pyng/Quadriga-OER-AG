@@ -12,6 +12,8 @@ chapters:
       - file: präambel/technische_voraussetzungen.md
       - file: präambel/vorkenntnisse.md
   - file: mein-geheimer-Ordner/neu.md
+    sections:
+      - file: mein-geheimer-Ordner/auch-interessant.md
   - file: epilog/toc.md
     sections:
       - file: epilog/literaturverzeichnis.md
